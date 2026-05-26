@@ -28,9 +28,10 @@ Full Stack Developer based in Japan 🇯🇵, passionate about building problem 
 | Project | Description | Stack |
 |---|---|---|
 | [gaijintuned](https://github.com/leonardkenji/gaijintuned) | RESTful API for foreign car enthusiasts in Japan | Java · Spring Boot · PostgreSQL |
-| [messenger-bot](https://github.com/leonardkenji/messenger-bot) | Messaging automation bot | HTML · JavaScript |
-| [kenji-portfolio](https://github.com/leonardkenji/kenji-portfolio) | Personal portfolio website | JavaScript |
-| [rails-watch-list](https://github.com/leonardkenji/rails-watch-list) | Movie watchlist web app | Ruby on Rails |
+| [prato](https://github.com/leonardkenji/prato) | A full-stack recipe repository built with Ruby on Rails, designed for selective eaters. Features advanced filtering by color, temperature, taste, and consistency to help users find the perfect meal."  | Ruby · Rails · PostgreSQL |
+| [messenger-bot](https://github.com/leonardkenji/messenger-bot) | Messaging automation bot | Ruby · Rails · PostgreSQL · AI Features · META Developers |
+| [JP4U ERP](https://github.com/leonardkenji/jp4u) | Personal portfolio website | Ruby · Rails · PostgreSQL · AI Features|
+| [Pokeclo](https://github.com/GerthIII/pokeclo) | Use AI to try new clothes at the store with all of your clothes with AI image generation |  Ruby · Rails · PostgreSQL · AI Features |
 
 ---
 

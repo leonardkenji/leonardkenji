@@ -45,8 +45,3 @@ Full Stack Developer based in Japan 🇯🇵, passionate about building problem 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/leeokenji/)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardkenji&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardkenji&layout=compact&theme=default&hide_border=true" height="150" />
-</p>

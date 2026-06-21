@@ -29,6 +29,8 @@ Full Stack Developer based in Japan 🇯🇵, passionate about building problem 
 
 | Project | Description | Stack |
 |---|---|---|
+| [CTBJJ Frontend](https://github.com/leonardkenji/ctbjj-front) | Web App Frontend| TypeScript · React · REST API |
+| [CTBJJ Backend](https://github.com/leonardkenji/main) | RESTful API for a BJJ academy | Java · Spring Boot · PostgreSQL |
 | [gaijintuned Frontend](https://github.com/leonardkenji/gaijintunedfront) | Web App Frontend| TypeScript · React · REST API |
 | [gaijintuned Backend](https://github.com/leonardkenji/gaijintuned) | RESTful API for foreign car enthusiasts in Japan | Java · Spring Boot · PostgreSQL |
 | [prato](https://github.com/leonardkenji/prato) | A full-stack recipe repository built with Ruby on Rails, designed for selective eaters. Features advanced filtering by color, temperature, taste, and consistency to help users find the perfect meal."  | Ruby · Rails · PostgreSQL |
